@@ -1,0 +1,5 @@
+pandas
+ipykernel
+statsmodels
+matplotlib
+scipy
